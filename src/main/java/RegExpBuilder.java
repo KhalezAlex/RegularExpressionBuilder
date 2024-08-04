@@ -2,12 +2,12 @@ public class RegExpBuilder {
     private final StringBuilder regexp = new StringBuilder();
 
     /**
-     * appends custom text to regular expression
+     * returns custom text as a regular expression
      * */
 
-    public RegExpBuilder text(String text) {
+    public String text(String text) {
         regexp.append(text);
-        return this;
+        return regexp.toString();
     }
 
     /**
