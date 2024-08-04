@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06edf9d7-eec0-4f75-bc9d-8fc1a4e3b805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RegExpBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="06edf9d7-eec0-4f75-bc9d-8fc1a4e3b805" name="Changes" comment="feature(RegExpBuilder): build">
+      <change beforePath="$PROJECT_DIR$/src/main/java/RegExpBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RegExpBuilder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +46,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722774347864</updated>
-      <workItem from="1722774350389" duration="2447000" />
+      <workItem from="1722774350389" duration="2746000" />
     </task>
+    <task id="LOCAL-00001" summary="feature(RegExpBuilder): build">
+      <created>1722789889324</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722789889324</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature(RegExpBuilder): build" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature(RegExpBuilder): build" />
   </component>
 </project>
