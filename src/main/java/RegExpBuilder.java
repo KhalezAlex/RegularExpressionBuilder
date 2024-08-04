@@ -11,6 +11,20 @@ public class RegExpBuilder {
     }
 
     /**
+     * appends a regular expression to current regular expression
+     * */
+
+    public RegExpBuilder append(RegExpBuilder regExp) {
+        regexp.append(regExp.build());
+        return this;
+    }
+
+    public RegExpBuilder append (String regexp) {
+        this.regexp.append(regexp);
+        return this;
+    }
+
+    /**
      * builds regular expression
      */
 

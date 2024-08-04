@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06edf9d7-eec0-4f75-bc9d-8fc1a4e3b805" name="Changes" comment="feature(RegExpBuilder): text&#10;&#10;adds custom text string to regular expression" />
+    <list default="true" id="06edf9d7-eec0-4f75-bc9d-8fc1a4e3b805" name="Changes" comment="chore(RegExpBuilder): text&#10;&#10;returns custom text as a regular expression">
+      <change beforePath="$PROJECT_DIR$/src/main/java/RegExpBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RegExpBuilder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722774347864</updated>
-      <workItem from="1722774350389" duration="3758000" />
+      <workItem from="1722774350389" duration="4385000" />
     </task>
     <task id="LOCAL-00001" summary="feature(RegExpBuilder): build">
       <created>1722789889324</created>
@@ -60,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1722790509400</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chore(RegExpBuilder): text&#10;&#10;returns custom text as a regular expression">
+      <created>1722791516615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722791516615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature(RegExpBuilder): build" />
     <MESSAGE value="feature(RegExpBuilder): text&#10;&#10;adds custom text string to regular expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature(RegExpBuilder): text&#10;&#10;adds custom text string to regular expression" />
+    <MESSAGE value="chore(RegExpBuilder): text&#10;&#10;returns custom text as a regular expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(RegExpBuilder): text&#10;&#10;returns custom text as a regular expression" />
   </component>
 </project>
